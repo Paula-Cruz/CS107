@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Verde : MonoBehaviour
+public class Azul : MonoBehaviour
 {
     // Start is called before the first frame update
     void Start()
